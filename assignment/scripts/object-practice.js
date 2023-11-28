@@ -54,5 +54,7 @@ console.log('my new shoe count is:', me.shoeCount);
 */
 console.log('A little about me:', me);
 me.favoriteColor = 'green';
+//me.tree = ('');
+//me.tree = 'spruce';
 console.log('I forgot to tell you about my favorite color too:', me.favoriteColor);
 console.log('A new little about me:', me);
